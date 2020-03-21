@@ -5,7 +5,7 @@ Projeto desenvolvido durante a semana OmniStack 10.0 🚀 ( [Rocketseat](https:/
 DevRadar, uma aplicação que tem o objetivo de buscar dev's próximos a você que trabalham com as mesmas tecnologias.
 
 
-## ✋🏻 Pré-requisitos
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
