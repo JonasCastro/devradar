@@ -18,13 +18,13 @@ DevRadar, uma aplicação que tem o objetivo de buscar dev's próximos a você q
 
 ## Backend
 1. Entre na pasta `cd backend`;
-2. Rode `yarn` para instalar as dependências;
-3. Rode `yarn dev` para iniciar o servidor.
+2. Execute `yarn` para instalar as dependências;
+3. Execute `yarn dev` para iniciar o servidor.
 
 ## Web 
 1. Entre na pasta `cd web`
-2. Rode `yarn` para instalar as dependências;
-3. Rode `yarn start` para iniciar a aplicação;
+2. Execute `yarn` para instalar as dependências;
+3. Execute `yarn start` para iniciar a aplicação;
 
 
 ## 📝 Licença
